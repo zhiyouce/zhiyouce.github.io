@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zhiyouce.github.io/post/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2020-12-07T18:24:32+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhiyouce.github.io/post/second/</loc>
+    <loc>http://example.org/post/second/</loc>
     <lastmod>2020-12-07T18:24:32+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhiyouce.github.io/post/first/</loc>
+    <loc>http://example.org/post/first/</loc>
     <lastmod>2020-12-07T18:24:32+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhiyouce.github.io/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2020-12-07T18:24:32+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhiyouce.github.io/about/</loc>
+    <loc>http://example.org/about/</loc>
     <lastmod>2020-12-07T18:21:10+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhiyouce.github.io/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://zhiyouce.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
